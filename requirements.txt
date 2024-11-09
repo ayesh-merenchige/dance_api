@@ -1,0 +1,6 @@
+Flask
+tensorflow
+joblib
+gunicorn
+mediapipe
+opencv-python
